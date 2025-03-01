@@ -1,1 +1,5 @@
-werwerwer
+def hello():
+    print("hello")
+
+
+hello()
